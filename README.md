@@ -9,4 +9,5 @@ The rules of war are simple.
   6.  The winning player then takes both cards and places them into the bottom of their deck
   7.  If there is a tie (Both cards are of equal values) three more cards are wagered and placed face down and a new turn commences
 This game is implemented using an 'AI' player versus a real user.
+
 Enjoy!
